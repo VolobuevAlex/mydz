@@ -1,1 +1,21 @@
-
+.block{
+    height: 50px;
+}
+.nav{
+    text-align: center;
+}
+.btn{
+    border-radius: 15px;
+    width: 200px;
+    height: 50px;
+    background-color: darkorange;
+    color: white;
+    pointer-events:visible;
+}
+.div{
+    text-align: center;
+    padding: 100px;
+}
+.bd{
+    background: url(/mydz/img/fon.jpg);
+}
